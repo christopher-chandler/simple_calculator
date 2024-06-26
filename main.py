@@ -1,7 +1,7 @@
 # Standard
 import argparse
 
-
+# Das ist ein Programm, um Sachen zu berechnen.
 def addieren(x, y):
     return x + y
 
